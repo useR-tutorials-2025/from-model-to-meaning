@@ -1,3 +1,3 @@
 library(marginaleffects)
-mod = lm(mpg ~ factor(cyl), mtcars)
+mod = lm(Sepal.Length ~ Species, iris)
 avg_comparisons(mod, hypothesis = ~reference)

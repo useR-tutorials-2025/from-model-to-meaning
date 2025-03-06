@@ -1,4 +1,3 @@
-# fit a model using mtcars instead of iris AI!
 library(marginaleffects)
-mod = lm(Sepal.Length ~ Species, iris)
+mod = lm(mpg ~ factor(cyl), mtcars)
 avg_comparisons(mod, hypothesis = ~reference)

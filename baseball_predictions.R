@@ -39,4 +39,3 @@ plot_predictions(mod, condition = "yearID")
 
 # TODO: Plot predicted count of home runs over year and lgID
 # Hint: Use a character vector in the `condition` argument.
-plot_predictions(mod, condition = c("yearID", "lgID"))

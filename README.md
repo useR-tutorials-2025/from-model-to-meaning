@@ -1,4 +1,4 @@
-# From Model to Meaning: How to use the marginaleffects package to interpret results from statistical or machine learning models
+# Model to Meaning: How to use the marginaleffects package to interpret results from statistical or machine learning models
 
 Fri, Aug 8, 2025 - 08:30–12:00
 Penn Pavilion Room 1 (107 Union dr.)
